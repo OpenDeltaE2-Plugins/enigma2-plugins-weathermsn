@@ -1,1 +1,1 @@
-# enigma2-plugins-weathermsn2
+# enigma2-plugins-weathermsn
